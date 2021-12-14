@@ -10,6 +10,8 @@ https://www.knowledgehut.com/interview-questions/spring-boot
 
 https://github.com/rahulmoundekar/Spring-Boot-Interview-Questions
 
+http://www.codespaghetti.com/spring-interview-questions/#introduction
+
 
 
 Microservices Interview Questions and Answers
