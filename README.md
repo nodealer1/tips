@@ -203,3 +203,72 @@ Q. What do you understand by Distributed Transaction in microservices?
 </div>
 
 
+
+Q1: Define Microservice Architecture  Related To: Software Architecture
+ 
+Q2: Why Would You Opt For Microservices Architecture?  
+ 
+Q3: List down the advantages of Microservices Architecture  
+ 
+Q4: How does Microservice Architecture work?  
+  
+Q5: What are the features of Microservices?  
+  
+Q6: What is the difference between Monolithic, SOA and Microservices Architecture?  Related To: Software Architecture, SOA
+  
+Q7: What are main differences between Microservices and Monolithic Architecture?  
+  
+Q8: How can we perform Cross-Functional testing?  
+  
+Q9: What Are The Fundamentals Of Microservices Design?  
+  
+Q10: What are the challenges you face while working Microservice Architectures?  
+ Q11: Whether do you find GraphQL the right fit for designing microservice architecture?  Related To: GraphQL
+  
+Q12: What are the standard patterns of orchestrating microservices?  
+  
+Q13: What is the difference between a proxy server and a reverse proxy server?  
+  
+Q14: What are smart endpoints and dumb pipes?  
+  
+Q15: What do you understand by Contract Testing?  
+  
+Q16: Can we create State Machines out of Microservices?  
+  
+Q17: What is Idempotence?  
+  
+Q18: What do you understand by Distributed Transaction?  
+  
+Q19: What is the role of an architect in Microservices architecture?  
+  
+Q20: What are the pros and cons of Microservice Architecture?  
+  
+Q21: What is Materialized View pattern and when will you use it?  
+  
+Q22: Mention some benefits and drawbacks of an API Gateway  
+  
+Q23: Explain what is the API Gateway pattern  Related To: API Design
+  
+Q24: How should the various services share a common DB Schema and code?  
+  
+Q25: Name the main differences between SOA and Microservices?  Related To: SOA
+  
+Q26: What does it mean that shifting to microservices creates a run-time problem?  
+  
+Q27: What is the difference between Cohesion and Coupling?  Related To: Software Architecture
+  
+Q28: What is a Consumer-Driven Contract (CDC)?  
+  
+Q29: What are Reactive Extensions in Microservices?  
+  
+Q30: What is the most accepted transaction strategy for microservices?  Related To: Software Architecture
+  
+Q31: What Did The Law Stated By Melvin Conway Implied?  
+  
+Q32: Why would one use sagas over 2PC and vice versa?   
+  
+Q33: How would you implement SSO for Microservice Architecture?  
+  
+Q34: Provide an example of "smart pipes" and "dumb endpoint"  
+  
+
